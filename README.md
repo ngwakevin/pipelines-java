@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/caicou4eva/NewPipeLinePJ/_apis/build/status/ngwakevin.pipelines-java?branchName=master)](https://dev.azure.com/caicou4eva/NewPipeLinePJ/_build/latest?definitionId=3&branchName=master)
+
 [![Build Status](https://dev.azure.com/nattyact/NewDev/_apis/build/status/ngwakevin.pipelines-java?branchName=master)](https://dev.azure.com/nattyact/NewDev/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
